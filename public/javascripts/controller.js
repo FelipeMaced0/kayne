@@ -26,6 +26,20 @@ const initEventsKayne = () => {
     //Events
 }
 
+const runningmouse = () => {
+    document.addEventListener("mousemove", (mouse_event) => {
+        const nav_bar = document.getElementById('nav-list');
+
+        const leftNav = nav_bar.getAttribute("left");
+        const topNav = nav_bar.getAttribute('top');
+        const leftMouse = mouse_event.pageX;
+        const topMouse = mouse_event.pageY;
+
+        const distance = Math.sqrt((leftNav-leftMouse)**2+(topNav-topMouse)**2);
+        //console.log('dis:'+distance);
+    });
+}
+runningmouse();
 initEventsKayne();
 
 

@@ -28,10 +28,10 @@ router.get('/public/images/kayne-microphone.jpeg', function(req, res, next) {
 router.get('/public/javascripts/controller.js', function(req, res, next) {
   res.sendFile('/home/iky/Documents/java-script/kayne/public/javascripts/controller.js');
 });
+
 router.get('/public/javascripts/navbarController.js', function(req, res, next) {
   res.sendFile('/home/iky/Documents/java-script/kayne/public/javascripts/navbarController.js');
 });
-
 /* JS AND CSS */
 
 
