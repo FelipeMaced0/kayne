@@ -1,11 +1,13 @@
-# Kayne Facts
+# Kayne_Facts
+
+Checkout the website: [Kayne](https://kayne.vercel.app/)
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/FelipeMaced0/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/FelipeMaced0/README-template?style=for-the-badge)
 
-<img src="./public/images/kayne-facts-presentation-image.png" style="width:60vw; height:55vh" alt="Kayne Facts Presentation Image">
+<img src="./public/images/kayne-facts-presentation-image.png" style="width:60vw; height:55vh" alt="Kayne Facts Presentation Image"> 
 
 ## What is this all about?
 
@@ -84,4 +86,4 @@ A seguinte mensagem deverá aparecer no terminal:
 Depois digite a URL no navegador:
  > https://localhost:3000
 
-[⬆ Voltar ao topo](#Kayne)<br>
+[⬆ Voltar ao topo](#Kayne_Facts)<br>
