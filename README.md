@@ -27,7 +27,7 @@ Verify if you have node installed. If not, checkout these resources:
 
 To be able to launch:
 
-  > `nmp start` or `npm restart`
+  > `npm start` or `npm restart`
 
 The Following messages should appear on your terminal:
 
@@ -68,7 +68,7 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 
 Para rodar o site:
 
-  > `nmp start` or `npm restart`
+  > `npm start` or `npm restart`
 
 A seguinte mensagem deverá aparecer no terminal:
 
